@@ -75,49 +75,49 @@ const HoonieStudio = () => {
     {
       id: 1,
       category: "School Profile",
-      image: "/portfolio/SchoolProfile.png",
+      image: "portfolio/SchoolProfile.png",
       url: "https://lvincentt.github.io/Profile-Sekolah/",
       tag: "Education",
     },
     {
       id: 2,
       category: "Makeup Artist Profile",
-      image: "/portfolio/MakeupArtist.png",
+      image: "portfolio/MakeupArtist.png",
       url: "https://lvincentt.github.io/Yeji-MUA/",
       tag: "Beauty",
     },
     {
       id: 3,
       category: "Dessert Brand E-commerce",
-      image: "/portfolio/Chara.png",
+      image: "portfolio/Chara.png",
       url: "https://lvincentt.github.io/Chara/",
       tag: "Food & Retail",
     },
     {
       id: 4,
       category: "Dessert Brand Profile + Chatbot",
-      image: "/portfolio/TinyCrumbs.png",
+      image: "portfolio/TinyCrumbs.png",
       url: "https://lvincentt.github.io/Tiny-Crumbs/",
       tag: "Food Tech",
     },
     {
       id: 5,
       category: "Photographer Profile",
-      image: "/portfolio/NicholeHong.png",
+      image: "portfolio/NicholeHong.png",
       url: "https://lvincentt.github.io/NicholeHong/",
       tag: "Photography",
     },
     {
       id: 6,
       category: "Coffee Shop Profile",
-      image: "/portfolio/LumiCoffee.png",
+      image: "portfolio/LumiCoffee.png",
       url: "https://lvincentt.github.io/Lumi-Coffee/",
       tag: "Hospitality",
     },
     {
       id: 7,
       category: "Yoga Studio",
-      image: "/portfolio/Yoga.png",
+      image: "portfolio/Yoga.png",
       url: "https://lvincentt.github.io/Yoga/",
       tag: "Wellness",
     },
@@ -314,7 +314,7 @@ const HoonieStudio = () => {
             <div className="relative group">
               <div className="aspect-[4/5] rounded-xl overflow-hidden border border-neutral-100 transition-all duration-700 group-hover:scale-[1.02]">
                 <img
-                  src="/images/about.jpg"
+                  src="images/about.jpg"
                   alt="A calm, minimal creative workspace"
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                   loading="lazy"
